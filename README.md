@@ -49,5 +49,5 @@ The model achieved the following accuracy:
 
 ## Acknowledgments
 
-- Parts of the code and mathematical calcualtions are inspired from **Coding Lane** YouTube channel (https://youtube.com/playlist?list=PLuhqtP7jdD8CftMk831qdE8BlIteSaNzD&si=svZJJDjoJUcCPKpG).
+- The code and mathematical calcualtions are inspired from **Coding Lane** YouTube channel (https://youtube.com/playlist?list=PLuhqtP7jdD8CftMk831qdE8BlIteSaNzD&si=svZJJDjoJUcCPKpG).
 - The explanation of the softmax derivative was based on the article (https://shivammehta25.github.io/posts/deriving-categorical-cross-entropy-and-softmax/).

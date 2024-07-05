@@ -46,3 +46,8 @@ The model achieved the following accuracy:
 - Implement more advanced optimization algorithms (e.g., Adam, RMSprop).
 - Add additional evaluation metrics (precision, recall, F1-score, confusion matrix).
 - Improve the efficiency of the code.
+
+## Acknowledgments
+
+- Parts of the code and mathematical calcualtions are inspired from **Coding Lane** YouTube channel (https://youtube.com/playlist?list=PLuhqtP7jdD8CftMk831qdE8BlIteSaNzD&si=svZJJDjoJUcCPKpG).
+- The explanation of the softmax derivative was based on the article (https://shivammehta25.github.io/posts/deriving-categorical-cross-entropy-and-softmax/).
